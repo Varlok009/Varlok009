@@ -2,7 +2,7 @@
 # Начинающий Python разработчик
 В настоящий момент работаю инженером энергетиком и развиваюсь в направлении программирования
 
-[![codewars](https://www.codewars.com/users/Varlok009/badges/small)](https://www.codewars.com/users/Varlok009)
+[![codewars](https://www.codewars.com/users/Varlok009/badges/large)](https://www.codewars.com/users/Varlok009)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Varlok009&theme=dark)](https://github.com/Varlok009/leetcode-stats)
 <!--
