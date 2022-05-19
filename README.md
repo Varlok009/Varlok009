@@ -2,8 +2,9 @@
 # Начинающий Python разработчик
 В настоящий момент работаю инженером энергетиком и развиваюсь в направлении программирования
 
-[![codewars](https://www.codewars.com/users/Varlok009/badges/small)](https://www.codewars.com/users/Varlok009) 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![codewars](https://www.codewars.com/users/Varlok009/badges/small)](https://www.codewars.com/users/Varlok009)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Varlok009&theme=dark)](https://github.com/Varlok009/leetcode-stats)
 <!--
 **Varlok009/Varlok009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
