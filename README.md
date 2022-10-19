@@ -1,5 +1,4 @@
 ### 👋
-# Python разработчик
 
 [![codewars](https://www.codewars.com/users/Varlok009/badges/large)](https://www.codewars.com/users/Varlok009)
 
